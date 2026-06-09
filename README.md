@@ -6,10 +6,6 @@
 
 ---
 
-## 👨‍💻 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=maksudor12&color=blue)
-
 ---
 
 ## 🧑‍💻 About Me
