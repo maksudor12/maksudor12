@@ -1,7 +1,11 @@
-<!-- ================= ANIMATED INTRO ================= -->
+<!-- ================= HEADER ANIMATION ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=Hi+👋+I'm+Maksudor+Rahman;CSE+Final+Year+Student;Full+Stack+Web+Developer;React+%26+Next.js+Developer;Problem+Solver+%7C+Tech+Enthusiast" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:0066FF&height=180&section=header&text=Maksudor%20Rahman&fontSize=35&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=CSE+Final+Year+Student;Full+Stack+Web+Developer;React+%26+Next.js+Developer;Problem+Solver;Always+Learning+New+Tech" />
 </p>
 
 ---
@@ -9,86 +13,46 @@
 # 👋 Hi, I'm Maksudor Rahman
 
 💻 CSE Final Year Student | 🌐 Full Stack Web Developer  
-🚀 Passionate about building scalable and modern web applications using React & Next.js  
+🚀 Passionate about building scalable and modern web applications  
 🎯 Aspiring Software Engineer | Problem Solver | Tech Enthusiast  
 
 ---
 
-## 👨‍💻 Profile Views
+## ⚡ About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=maksudor12&color=blue)
+```javascript
+const developer = {
+  name: "Maksudor Rahman",
+  role: "Full Stack Web Developer",
+  education: "CSE Final Year Student",
+  skills: ["React", "Next.js", "Node.js", "C", "C++", "Python", "Java"],
+  passion: "Building real-world web applications",
+  goal: "Software Engineer"
+};
 
----
+🛠️ Tech Stack
+🌐 Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind" /> </p>
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,firebase" /> </p>
+💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,python,java" /> </p>
+🛠️ Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 
-## 🧑‍💻 About Me
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maksudor12&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksudor12&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksudor12&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
-- 🎓 Final year Computer Science & Engineering student  
-- 💻 Full Stack Web Developer (Frontend + Backend basics)  
-- 🌱 Learning advanced Next.js, backend systems & system design  
-- ⚡ I love turning ideas into real-world applications  
-- 🎯 Career Goal: Become a professional Software Engineer  
+🚀 Featured Projects
+🏥 MediCampus Online Medicine Store (Next.js Full Stack)
+🛒 E-commerce Web Applications
+📊 React Dashboard UI Projects
 
----
 
-## 🛠️ Tech Stack
+🔗 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/maksudorrahmanroman"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"> </a> <a href="https://github.com/maksudor12"> <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"> </a> <a href="mailto:maksudorroman2052@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"> </a> </p>
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js" />
-</p>
 
-### ⚙️ Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
-</p>
-
-### 🔧 Backend & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,git,github,vscode" />
-</p>
-
-### 🌐 Networking
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-blue?style=for-the-badge&logo=cisco" />
-</p>
-
----
-
-## 🤝 Soft Skills
-
-- 🧠 Problem Solving  
-- 👥 Team Collaboration  
-- 🗣️ Communication Skills  
-- ⏱️ Time Management  
-- 🔍 Analytical Thinking  
-- 🚀 Quick Learner  
-
----
-
-## 🚀 Featured Projects
-
-- 🏥 MediCampus Online Medicine Store (Next.js Full Stack)
-- 🛒 E-commerce Web Applications
-- 📊 React Dashboard UI Projects
-
-👉 More projects coming soon...
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksudor12&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksudor12&layout=compact&theme=tokyonight)
-
----
-
-## 🔗 Connect With Me
-
-- 💼 LinkedIn: [Maksudor Rahman](https://www.linkedin.com/in/maksudorrahmanroman)  
-- 🐙 GitHub: https://github.com/maksudor12  
-- 📧 Email: maksudorroman2052@gmail.com  
+💡 Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7F7&height=120&section=footer"/> </p> ```
