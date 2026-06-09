@@ -9,7 +9,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=CSE+Final+Year+Student;Full+Stack+Web+Developer;React+%26+Next.js+Developer;Problem+Solver;Always+Learning+New+Tech" />
 </p>
 
----
 
 # 👋 Hi, I'm Maksudor Rahman
 
@@ -17,7 +16,7 @@
 🚀 Passionate about building scalable modern web applications  
 🎯 Aspiring Software Engineer | Problem Solver | Tech Enthusiast  
 
----
+
 
 ## ⚡ About Me
 
@@ -29,7 +28,7 @@ I am a passionate Computer Science student who enjoys building real-world web ap
 - ⚡ Passionate about coding & building projects  
 - 🎯 Goal: Become a professional Software Engineer  
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -58,7 +57,7 @@ I am a passionate Computer Science student who enjoys building real-world web ap
   <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-blue?style=for-the-badge&logo=cisco" />
 </p>
 
----
+
 
 ## 🚀 Projects
 
@@ -67,7 +66,7 @@ I am a passionate Computer Science student who enjoys building real-world web ap
 - 📊 React Dashboard UI Project  
 - 🔐 Authentication System with Firebase  
 
----
+
 
 ## 🤝 Soft Skills
 
@@ -78,7 +77,7 @@ I am a passionate Computer Science student who enjoys building real-world web ap
 - 🔍 Analytical Thinking  
 - 🚀 Quick Learner  
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -94,7 +93,7 @@ I am a passionate Computer Science student who enjoys building real-world web ap
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksudor12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 ## 🔗 Connect With Me
 
@@ -112,7 +111,7 @@ I am a passionate Computer Science student who enjoys building real-world web ap
   </a>
 </p>
 
----
+
 
 ## 💡 Quote
 
@@ -120,7 +119,7 @@ I am a passionate Computer Science student who enjoys building real-world web ap
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 </p>
 
----
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7F7&height=120&section=footer"/>
