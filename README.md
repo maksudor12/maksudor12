@@ -1,4 +1,12 @@
-# Hi 👋, I'm Maksudor Rahman
+<!-- ================= ANIMATED INTRO ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=600&lines=Hi+👋+I'm+Maksudor+Rahman;CSE+Final+Year+Student;Full+Stack+Web+Developer;React+%26+Next.js+Developer;Problem+Solver+%7C+Tech+Enthusiast" />
+</p>
+
+---
+
+# 👋 Hi, I'm Maksudor Rahman
 
 💻 CSE Final Year Student | 🌐 Full Stack Web Developer  
 🚀 Passionate about building scalable and modern web applications using React & Next.js  
@@ -6,15 +14,19 @@
 
 ---
 
+## 👨‍💻 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=maksudor12&color=blue)
+
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final year Computer Science & Engineering student
-- 💻 Full Stack Web Developer (Frontend + Backend basics)
-- 🌱 Continuously learning advanced Next.js, backend systems & system design
-- ⚡ I enjoy turning ideas into real-world applications
-- 🎯 Career Goal: Become a professional Software Engineer
+- 🎓 Final year Computer Science & Engineering student  
+- 💻 Full Stack Web Developer (Frontend + Backend basics)  
+- 🌱 Learning advanced Next.js, backend systems & system design  
+- ⚡ I love turning ideas into real-world applications  
+- 🎯 Career Goal: Become a professional Software Engineer  
 
 ---
 
@@ -77,7 +89,6 @@
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: [Maksudor Rahman](https://www.linkedin.com/in/maksudorrahmanroman)
+- 💼 LinkedIn: [Maksudor Rahman](https://www.linkedin.com/in/maksudorrahmanroman)  
 - 🐙 GitHub: https://github.com/maksudor12  
 - 📧 Email: maksudorroman2052@gmail.com  
-
